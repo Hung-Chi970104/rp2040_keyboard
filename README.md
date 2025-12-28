@@ -12,5 +12,5 @@ This my second project using RP2040, right after I built the RP2040 devboard!!!
 - ![Assembled](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fcfd934186bf65f4_screenshot_2025-12-27_230545.png)
 - ![Assembled](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d14e7ac51dab2812_screenshot_2025-12-27_230945.png)
 
-## Conclusionl
+## Conclusion
 I gotta be honest working on this wasn't as easy as I thought, mainly beacuse of new layout for RP2040 and my poor planning (yeah that's my problem).......But anyways I'll order this right after I get my RP2040 devboard that I built previously just in case I made some stupid mistakes lol
