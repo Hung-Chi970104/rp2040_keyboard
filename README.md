@@ -6,8 +6,8 @@ This my second project using RP2040, right after I built the RP2040 devboard!!!
 - RP2040 + crystal + flash storage + USB Port
 
 ## Images
-- ![Assembled](assets/Screenshot 2025-12-27 234037.png)
-- ![Assembled](assets/Screenshot 2025-12-27 234052.png)
+- ![Assembled](assets/Screenshot%202025-12-27%20234037.png)
+- ![Assembled](assets/Screenshot%202025-12-27%20234052.png)
 - ![Assembled](assets/Screenshot%202025-12-28%20110555.png)
 - ![Assembled](assets/Screenshot%202026-01-29%20172736.png)
 
