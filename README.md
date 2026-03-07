@@ -1,5 +1,5 @@
 # Full-size keyboard with integrated RP2040 chip
-This my second project using RP2040, right after I built the RP2040 devboard!!!
+A keyboard that’s actually a computer! Inspired by from Raspberry Pi 500, but instead with a powerful RP2040 inside, you can code as you type, like run Python, compile C/C++, and literally type programs on the go!
 ![Assembled](assets/rp2040_keyboard.png)
 
 ## Components
