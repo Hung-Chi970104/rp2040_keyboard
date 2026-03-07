@@ -1,5 +1,6 @@
 # Full-size keyboard with integrated RP2040 chip
 This my second project using RP2040, right after I built the RP2040 devboard!!!
+![Assembled](assets/rp2040_keyboard.png)
 
 ## Components:
 - Cherry MX Key Switches
