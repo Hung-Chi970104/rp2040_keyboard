@@ -12,6 +12,10 @@ A keyboard that’s actually a computer! Inspired by from Raspberry Pi 500, but 
 ## Designs
 ![schematic_MCU](assets/Keyboard.svg)
 ![schematic_map](assets/Keyboard-Key_map.svg)
+![pcb_B](assets/Keyboard-F_Cu.svg)
+![pcb_mcu](assets/pcb_mcu.png)
+![pcb_front](assets/pcb_front.png)
+![pcb_back](assets/pcb_back.png)
 ![keyboard_3d_front](assets/keyboard_3d_front.png)
 ![keyboard_3d_back](assets/keyboard_3d_back.png)
 
